@@ -1,4 +1,4 @@
-TS-test to repozytorium poświęcone prezentowaniu mojej drogi nauki z TypeScript. Uczestniczyłem w trzech kursach na Udemy, stopniowo przechodząc od podstawowych ćwiczeń do bardziej ambitnych projektów, wykorzystując zaawansowane funkcje i techniki w TypeScript.
+ TS-test to repozytorium poświęcone prezentowaniu mojej drogi nauki z TypeScript. Uczestniczyłem w trzech kursach na Udemy, stopniowo przechodząc od podstawowych ćwiczeń do bardziej ambitnych projektów, wykorzystując zaawansowane funkcje i techniki w TypeScript.
 
 Zaczynając od prostych ćwiczeń, powoli przechodziłem do bardziej złożonych i bogatych w funkcje projektów, poprawiając moje zrozumienie systemu typów TypeScript, interfejsów, klas, generyków, dekoratorów i innych zaawansowanych koncepcji. Każdy krok w tej podróży pozwolił mi udoskonalić moje umiejętności kodowania i zastosować je w praktycznych projektach.
 
