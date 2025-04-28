@@ -20,7 +20,7 @@ const twoFer = (person: string = "you"): string => {
     return `One for ${person}, one for me`
 }
 
-console.log(twoFer())
+console.log(twoFer());
 console.log(twoFer("Elvid"));
 
 twoFer()

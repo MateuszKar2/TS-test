@@ -40,6 +40,6 @@ if (typeof randomValue === "string") {
 
 
 
-//TS również nie zwraca uwagi na typ przypisany di :unknown,
+//TS również nie zwraca uwagi na typ przypisany do :unknown,
 //ale w przeciwieństwie do any...
 //musimy sprawdzić czy typ jest prawidłowy przy wykonywaniu jakiejkolwiek operacji na zmiennej (np. warunek if)

@@ -92,7 +92,7 @@ type Person4 = {
     age: number,
 }
 
-type EmployeeType = Person4 & {//& zawiera wszystko co było w Person3
+type EmployeeType = Person4 & {//& zawiera wszystko co było w Person4
     employeeId: number;
 }
 
